@@ -16,7 +16,7 @@ Python, Flask, React, React-Bootstrap, React Router DOM, HTML, CSS, Javascript, 
 	
 ## Front-End Layer Setup
 
-Feel free to follow these steps on one machine in this order exactly. Feel free to ask questions and get help from your teammates when you need!
+Feel free to follow these steps on one machine in this order exactly.
 
 <details>
 
