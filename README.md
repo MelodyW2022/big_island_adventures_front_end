@@ -1,4 +1,4 @@
-# backend-big-island-adventures
+# big-island-adventures_front_end
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
@@ -12,7 +12,7 @@ Users can book tours and view them in their dashboard. The app's highlight is it
 The app is hosted on Heroku.
 	
 ## Technologies
-Python, Flask, React, React-Bootstrap, React Router DOM, HTML, CSS, Javascript, and PostgreSQL. 
+Python, Flask, React, React-Bootstrap, React Router DOM, HTML, CSS, Javascript, and PostgreSQL, Pytest and Jest testing frameworks.
 	
 ## Front-End Layer Setup
 
